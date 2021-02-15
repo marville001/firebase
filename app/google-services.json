@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "685533581370",
+    "firebase_url": "https://androiddb-46600-default-rtdb.firebaseio.com",
+    "project_id": "androiddb-46600",
+    "storage_bucket": "androiddb-46600.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685533581370:android:d6ffcde7e654294feda503",
+        "android_client_info": {
+          "package_name": "com.marville001.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685533581370-f9bbgq1tfs4fmsrgqhd6qbn63p6iebn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaR3ZFPS6EP9SEqre-2PAntlYlL_5LRxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685533581370-f9bbgq1tfs4fmsrgqhd6qbn63p6iebn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
